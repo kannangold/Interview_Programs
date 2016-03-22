@@ -1,4 +1,4 @@
-package array.sample;
+
 
 public class ArrangeNumbers_2 {
  public static void main(String[] args) {
